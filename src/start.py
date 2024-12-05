@@ -18,3 +18,11 @@ print(city)
 
 message = "Good Evening!"
 message = 1009
+
+# arytmetyka
+print(5 + 3)
+print(5 - 3)
+print(5 * 3)
+print(5 / 3)
+# dzielenie, odrzuca reszte i zwraca int
+print(5 // 3)
